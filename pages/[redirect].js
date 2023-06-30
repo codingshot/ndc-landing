@@ -22,6 +22,25 @@ const RedirectLinks = {
   "/verified-humans": "",
   "/trust": "",
   "/github": "https://github.com/near-ndc",
+  "/tech": "https://t.me/+zm-lGZhkVcNjMjEx",
+  "/refi": "https://NEAReFI.org/telegram",
+  "/framework": "https://t.me/+U0ywDvAAgTljMTQx",
+  "/ai": "https://t.me/+rO5rtl5zAnI1NTY5",
+  "/kyc": "https://t.me/+EjANBtB0TYlmMzQx",
+  "/rc": "https://t.me/+bSbtaui5HlUwYzUx",
+  "/startup": "https://t.me/+YKOQc1O4XJxlYWM5",
+  "/mods": "https://t.me/+RjIksh_d7OcwMmI1",
+  "/transparency": "https://t.me/+f9k6zkvC8cVlNGNh",
+  "/merit": "https://t.me/+fkHgIrbY_TtmMDZh",
+  "/community-events": "https://t.me/+REBhhF3Voes5NDhh",
+  "/events": "https://t.me/+REBhhF3Voes5NDhh",
+  "/gaming": "https://t.me/+QM6OtCRhcUdiYjhh",
+  "/nft": "https://t.me/+i3GC2WYx5b5hMThh",
+  "/defi": "https://t.me/+50ySHiGjLn04M2Rh",
+  "/degen": "https://t.me/+KCCfcYe-IKI2ZjEx",
+  "/freelancer": "https://t.me/+wqRNryKvg3AwMDdk",
+
+
 
 
 };
