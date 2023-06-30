@@ -39,10 +39,8 @@ const RedirectLinks = {
   "/defi": "https://t.me/+50ySHiGjLn04M2Rh",
   "/degen": "https://t.me/+KCCfcYe-IKI2ZjEx",
   "/freelancer": "https://t.me/+wqRNryKvg3AwMDdk",
-
-
-
-
+  "/telegram": "https://t.me/+fcNhYGxK891lMjMx",
+  "/discord": "https://discord.gg/4EZ6tW5Ctx",
 };
 
 const Redirect = () => {
