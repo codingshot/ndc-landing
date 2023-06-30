@@ -40,7 +40,7 @@ export default function Home() {
 
       <div className={styles.grid}>
       <a
-          href="https://neardc.org/wg"
+          href="https://neardc.org/home"
           className={styles.card}
           target="_blank"
           rel="noopener noreferrer"
