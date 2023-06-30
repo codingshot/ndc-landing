@@ -4,8 +4,8 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'NEAR Builders',
-  description: 'Decentralizing the NEAR Developer Ecosystem from the ground up',
+  title: 'NDC | NEAR Digital Collective',
+  description: 'The NDC is a Grassroots Movement, led by the NEAR Community to create Decentralized Web 3.0 Governance on NEAR.',
 }
 
 export default function RootLayout({ children }) {
