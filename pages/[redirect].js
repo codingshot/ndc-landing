@@ -41,6 +41,8 @@ const RedirectLinks = {
   "/freelancer": "https://t.me/+wqRNryKvg3AwMDdk",
   "/telegram": "https://t.me/+fcNhYGxK891lMjMx",
   "/discord": "https://discord.gg/4EZ6tW5Ctx",
+  "/og-apply": "https://docs.google.com/forms/d/e/1FAIpQLSfQ80mza1ssDRuEkjTl61ty0ORxm23whmwBDlaxWHjodTiz-w/viewform",
+
 };
 
 const Redirect = () => {
