@@ -42,6 +42,7 @@ const RedirectLinks = {
   "/telegram": "https://t.me/+fcNhYGxK891lMjMx",
   "/discord": "https://discord.gg/4EZ6tW5Ctx",
   "/og-apply": "https://docs.google.com/forms/d/e/1FAIpQLSfQ80mza1ssDRuEkjTl61ty0ORxm23whmwBDlaxWHjodTiz-w/viewform",
+  "/jobs": "https://careers.near.org/companies/near-digital-collective-ndc?q=ndc#content",
 
 };
 
