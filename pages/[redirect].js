@@ -44,7 +44,7 @@ const RedirectLinks = {
   "/og-apply": "https://docs.google.com/forms/d/e/1FAIpQLSfQ80mza1ssDRuEkjTl61ty0ORxm23whmwBDlaxWHjodTiz-w/viewform",
   "/jobs": "https://careers.near.org/companies/near-digital-collective-ndc?q=ndc#content",
   "/leaderboard": "https://i-am-human.app/community-scoreboard",
-
+  "/e2e-nominate": "https://docs.google.com/spreadsheets/d/1euTAtVGLB-3fnqp-VE5yI70l3Yb4ebqycqn_qV9qmSY/edit#gid=1640210743",
 };
 
 const Redirect = () => {
