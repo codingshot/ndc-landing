@@ -46,6 +46,9 @@ const RedirectLinks = {
   "/leaderboard": "https://i-am-human.app/community-scoreboard",
   "/e2e-nominate": "https://docs.google.com/spreadsheets/d/1euTAtVGLB-3fnqp-VE5yI70l3Yb4ebqycqn_qV9qmSY/edit#gid=1640210743",
   "/wg-combinator": "https://docs.google.com/document/d/1dLZiEUwFUSgYprJeJ-UzHCtp00ml-Sz9bLCDWWVhhi0/edit?usp=sharing",
+  "/sbt-viewer-figma": "https://www.figma.com/file/DYD5EQyzJD2Aj1NMN2g47E/NDC-SBT-Inspiration?type=design&node-id=0%3A1&mode=design&t=NxtqzXHmW5lpTi5D-1",
+  "/wg-directory-figma": "https://www.figma.com/file/LxPBkTAfRF8qXC0gnQwLfA/NDC-WG-Directory-Inspiration?type=design&node-id=0%3A1&mode=design&t=5wrOxGvuQciPqZQg-1",
+  
 };
 
 const Redirect = () => {
