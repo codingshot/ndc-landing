@@ -18,7 +18,7 @@ const RedirectLinks = {
   "/election-contract": "",
   "/voting-contract": "",
   "/vote": "",
-  "/nominate": "",
+  "/nominate": "https://near.org/syi216.near/widget/NDC.Nomination.Page",
   "/verified-humans": "",
   "/trust": "",
   "/github": "https://github.com/near-ndc",
