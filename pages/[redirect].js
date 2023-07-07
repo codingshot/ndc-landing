@@ -50,6 +50,7 @@ const RedirectLinks = {
   "/wg-directory-figma": "https://www.figma.com/file/LxPBkTAfRF8qXC0gnQwLfA/NDC-WG-Directory-Inspiration?type=design&node-id=0%3A1&mode=design&t=5wrOxGvuQciPqZQg-1",
   "/sbt-minter-figma": "https://www.figma.com/file/A7RpkKAKFY7CQMbE7qcxFE/NDC-SBT-Minter-Inspiration?type=design&node-id=0%3A1&mode=design&t=H3p2Q7r8088wrudh-1",
   "/e2e-nominate-instructions": "https://docs.google.com/document/d/1nRi0B9vPvOgS4STxhStMF3mOT2CkDwoO-aGoGYa_mF0/edit?usp=sharing",
+  "/declaration-of-transparency": "https://bafkreiarbw2noibmrvb2zexgsgbff23lhe5dzwjdepglsad3rp6fhvbhua.ipfs.nftstorage.link/",
   
 };
 
