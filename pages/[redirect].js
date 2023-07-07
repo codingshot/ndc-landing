@@ -48,6 +48,7 @@ const RedirectLinks = {
   "/wg-combinator": "https://docs.google.com/document/d/1dLZiEUwFUSgYprJeJ-UzHCtp00ml-Sz9bLCDWWVhhi0/edit?usp=sharing",
   "/sbt-viewer-figma": "https://www.figma.com/file/DYD5EQyzJD2Aj1NMN2g47E/NDC-SBT-Inspiration?type=design&node-id=0%3A1&mode=design&t=NxtqzXHmW5lpTi5D-1",
   "/wg-directory-figma": "https://www.figma.com/file/LxPBkTAfRF8qXC0gnQwLfA/NDC-WG-Directory-Inspiration?type=design&node-id=0%3A1&mode=design&t=5wrOxGvuQciPqZQg-1",
+  "/sbt-minter-figma": "https://www.figma.com/file/A7RpkKAKFY7CQMbE7qcxFE/NDC-SBT-Minter-Inspiration?type=design&node-id=0%3A1&mode=design&t=H3p2Q7r8088wrudh-1",
   
 };
 
