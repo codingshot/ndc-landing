@@ -55,6 +55,18 @@ const RedirectLinks = {
   "/human": "https://i-am-human.app/",
   "/blog": "https://medium.com/@neardigitalcollective",
   "/medium": "https://medium.com/@neardigitalcollective",
+  "/gigs-process": " https://miro.com/app/board/uXjVMMaCkmk=/",
+"/product-feedback": "https://near-digital-collective.canny.io/bugs-and-feature-requests",
+"/bounty-request": "https://airtable.com/shrQKlzVFjxEAqtSK",
+"/gig-rebrand" : "",
+"/gig-sbt-viewer" : "",
+"/gig-office-hours" : "",
+"/gig-user-activity" : "",
+"/gig-contributors" : "",
+"/gig-wg-directory" : "",
+"/gig-vote-bot" : "https://near.social/#/neardigitalcollective.near/widget/Gigs_OneArticle?articleId=gotv-bot&blockHeight=96301933&lastEditor=ndcplug.near",
+"/gig-wg-oage": "",
+
   
 };
 
