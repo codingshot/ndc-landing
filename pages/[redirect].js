@@ -52,6 +52,7 @@ const RedirectLinks = {
   "/e2e-nominate-instructions": "https://docs.google.com/document/d/1nRi0B9vPvOgS4STxhStMF3mOT2CkDwoO-aGoGYa_mF0/edit?usp=sharing",
   "/declaration-of-transparency": "https://bafkreiarbw2noibmrvb2zexgsgbff23lhe5dzwjdepglsad3rp6fhvbhua.ipfs.nftstorage.link/",
   "/testing-apply": "https://airtable.com/shrg5UxcE8VXLon4n",
+  "/human": "https://i-am-human.app/",
   
 };
 
