@@ -53,6 +53,8 @@ const RedirectLinks = {
   "/declaration-of-transparency": "https://bafkreiarbw2noibmrvb2zexgsgbff23lhe5dzwjdepglsad3rp6fhvbhua.ipfs.nftstorage.link/",
   "/testing-apply": "https://airtable.com/shrg5UxcE8VXLon4n",
   "/human": "https://i-am-human.app/",
+  "/blog": "https://medium.com/@neardigitalcollective",
+  "/medium": "https://medium.com/@neardigitalcollective",
   
 };
 
