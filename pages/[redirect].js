@@ -66,6 +66,7 @@ const RedirectLinks = {
 "/gig-wg-directory" : "",
 "/gig-vote-bot" : "https://near.social/#/neardigitalcollective.near/widget/Gigs_OneArticle?articleId=gotv-bot&blockHeight=96301933&lastEditor=ndcplug.near",
 "/gig-wg-page": "",
+"/election": "https://near.social/#/rubycop.near/widget/NDC.Elections.Main",
 
   
 };
