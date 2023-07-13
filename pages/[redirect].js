@@ -5,7 +5,7 @@ const RedirectLinks = {
   "/docs": "https://near.social/#/neardigitalcollective.near/widget/NDCDocs",
   "/office-hours": "https://near.social/#/neardigitalcollective.near/widget/OfficeHours",
   "/funding": "https://near.social/#/frichard5.near/widget/NDC-alldaos_overview",
-  "/poll": " https://near.social/#/neardigitalcollective.near/widget/EasyPoll.Main",
+  "/poll": "https://near.org/easypoll-v0.ndc-widgets.near/widget/EasyPoll",
   "/twitter": "https://twitter.com/neardc",
   "/home": "https://near.social/#/mattb.near/widget/NDC.Views.Home",
   "/devhub": "https://near.social/#/devgovgigs.near/widget/gigs-board.pages.community.activity?handle=ndc",
