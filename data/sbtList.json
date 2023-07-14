@@ -3,26 +3,30 @@
       "title": "OG",
       "description": "OGs can run for NDC congressional bodies",
       "address": "community.i-am-human.near",
-      "keywords": "OG SBT Elections"
+      "keywords": "OG SBT Elections",
+      "target": "300"
     },
     {
       "title": "I-AM-Human",
       "description": "Verify as a human using fractal",
       "address": "fractal.i-am-human.near",
-      "keywords": "kyc iamhuman"
+      "keywords": "kyc iamhuman",
+      "target": "3000"
     },
   
     {
       "title": "Regen",
       "description": "Proof of Regen",
       "address": "issuer.regens.near",
-      "keywords": "NEAReFI ReFi Regen"
+      "keywords": "NEAReFI ReFi Regen",
+      "target": "475"
     },
   
     {
       "title": "Proof of Vibes",
       "description": "Curated by tastemakers at live eents",
       "address": "issuer.proofofvibes.near",
-      "keywords": "Vibes VibeCheck Vibe Curators"
+      "keywords": "Vibes VibeCheck Vibe Curators",
+      "target": "1000"
     }
   ]
