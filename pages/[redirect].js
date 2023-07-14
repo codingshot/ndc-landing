@@ -68,7 +68,7 @@ const RedirectLinks = {
 "/gig-wg-page": "",
 "/election": "https://near.social/#/rubycop.near/widget/NDC.Elections.Main",
 "/OGs": "https://near.social/#/zavodil.near/widget/ndc-og-holders",
-"/sbt-holders": "https://near.org/ndcplug.near/widget/ndc-badge-holders",
+"/sbt-holders": "https://near.org/ndcplug.near/widget/NDC.SBT.main",
 
   
 };
