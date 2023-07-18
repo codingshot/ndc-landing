@@ -69,8 +69,8 @@ const RedirectLinks = {
 "/election": "https://near.social/#/rubycop.near/widget/NDC.Elections.Main",
 "/OGs": "https://near.social/#/zavodil.near/widget/ndc-og-holders",
 "/sbt-holders": "https://near.org/ndcplug.near/widget/NDC.SBT.main",
-"/gigs-rebrand-docs": "https://near.social/#/neardigitalcollective.near/widget/Gigs_OneArticle?articleId=docs-rebrand&blockHeight=96782592&lastEditor=ndcplug.near",
-"/gigs=rebrand-sayalot": "https://near.social/#/neardigitalcollective.near/widget/Gigs_OneArticle?articleId=say-a-lot-rebrand&blockHeight=96782610&lastEditor=ndcplug.near",
+"/gig-rebrand-docs": "https://near.social/#/neardigitalcollective.near/widget/Gigs_OneArticle?articleId=docs-rebrand&blockHeight=96782592&lastEditor=ndcplug.near",
+"/gig-rebrand-sayalot": "https://near.social/#/neardigitalcollective.near/widget/Gigs_OneArticle?articleId=say-a-lot-rebrand&blockHeight=96782610&lastEditor=ndcplug.near",
 
 
   
