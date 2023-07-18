@@ -125,11 +125,10 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            📣 NDC Updates<span>-&gt;</span>
+            📣 NDC Say A Lot<span>-&gt;</span>
           </h2>
-          <p>Check out the say-a-lot BOS widget to see what key members of the NDC are saying..</p>
+          <p>Check out the say-a-lot BOS widget to see what key members of the NDC are saying.</p>
         </a>
-
       </div>
     </main>
   )
