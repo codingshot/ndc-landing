@@ -72,6 +72,7 @@ const RedirectLinks = {
 "/sbt-holders": "https://near.org/ndcplug.near/widget/NDC.SBT.main",
 "/gig-rebrand-docs": "https://near.social/#/neardigitalcollective.near/widget/Gigs_OneArticle?articleId=docs-rebrand&blockHeight=96782592&lastEditor=ndcplug.near",
 "/gig-rebrand-sayalot": "https://near.social/#/neardigitalcollective.near/widget/Gigs_OneArticle?articleId=say-a-lot-rebrand&blockHeight=96782610&lastEditor=ndcplug.near",
+"/og-social": "https://www.near.org/near/widget/ProfilePage?accountId=og-sbt.sputnik-dao.near",
 
 
   
