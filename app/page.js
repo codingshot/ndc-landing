@@ -74,6 +74,18 @@ export default function Home() {
         </a>
 
         <a
+          href="https://neardc.org/nominate"
+          className={styles.card}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h2>
+          🗳️ NDC Nominations<span>-&gt;</span>
+          </h2>
+          <p>If you are an OG run for office in NDC Congress, if you are a human, comment on candidates' platforms.</p>
+        </a>
+
+        <a
           href="https://neardc.org/docs"
           className={styles.card}
           target="_blank"
