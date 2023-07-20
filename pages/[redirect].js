@@ -74,6 +74,7 @@ const RedirectLinks = {
 "/gig-rebrand-sayalot": "https://near.social/#/neardigitalcollective.near/widget/Gigs_OneArticle?articleId=say-a-lot-rebrand&blockHeight=96782610&lastEditor=ndcplug.near",
 "/og-social": "https://www.near.org/near/widget/ProfilePage?accountId=og-sbt.sputnik-dao.near",
 "/og-dao": "https://near.org/sking.near/widget/DAO.Page?daoId=og-sbt.sputnik-dao.near&tab=proposal",
+"/nominate-template": "https://docs.google.com/document/d/1K79ee3PxA-MnXgRBc8RDkyPxwPu4nif2gj4D--f31Zg/edit",
 
   
 };
