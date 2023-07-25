@@ -60,6 +60,7 @@ const RedirectLinks = {
 "/bounty-request": "https://airtable.com/shrQKlzVFjxEAqtSK",
 "/gig-rebrand" : "",
 "/gig-sbt-viewer" : "",
+"/gig-fund-design": "https://near.social/#/neardigitalcollective.near/widget/Gigs_OneArticle?articleId=community-fund&blockHeight=97329080&lastEditor=ndcplug.near",
 "/gig-office-hours" : "",
 "/gig-user-activity" : "",
 "/gig-contributors" : "",
