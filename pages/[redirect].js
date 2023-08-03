@@ -15,7 +15,7 @@ const RedirectLinks = {
   "/gov-ops": "https://docs.google.com/document/d/14ppp0QoMUM5WklO5HJsn7cRltw7kDdsP1iAcEMJTRxE/edit?usp=sharing",
   "/gigs": "https://near.social/#/neardigitalcollective.near/widget/Gigs",
   "/gigs-kyc": "https://airtable.com/shrWyGUWWQFcNMrId",
-  "/election-contract": "",
+  "/election-contract": "https://github.com/near-ndc/voting-v1/tree/master/elections/src",
   "/voting-contract": "",
   "/vote": "",
   "/nominate": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Page",
