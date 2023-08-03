@@ -76,7 +76,11 @@ const RedirectLinks = {
 "/og-social": "https://www.near.org/near/widget/ProfilePage?accountId=og-sbt.sputnik-dao.near",
 "/og-dao": "https://near.org/sking.near/widget/DAO.Page?daoId=og-sbt.sputnik-dao.near&tab=proposal",
 "/nominate-template": "https://docs.google.com/document/d/1K79ee3PxA-MnXgRBc8RDkyPxwPu4nif2gj4D--f31Zg/edit",
-
+"/gov-framework": "https://www.notion.so/near-ndc/NDC-V1-Framework-V3-Updated-1af84fe7cc204087be70ea7ffee4d23f?pvs=4",
+"/gov-ops": "https://docs.google.com/document/d/1l5g7JhaEPUMzjrzXEKw2Za5UmuRyK_9qxj-2-2CxlOE/edit#heading=h.xbfrobqp6dx3",
+"/constitution": "https://github.com/near-ndc/gov/blob/main/framework-v1/constitution.md",
+"/conduct": "https://near.org/neardigitalcollective.near/widget/NDCDocs_OneArticle?articleId=CommunityGuidelines&blockHeight=91522833&lastEditor=neardigitalcollective.near",
+"/bounty-process": "https://miro.com/app/board/uXjVMMaCkmk=/",
   
 };
 
