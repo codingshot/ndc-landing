@@ -63,6 +63,7 @@ const RedirectLinks = {
 "/gig-fund-design": "https://near.social/#/neardigitalcollective.near/widget/Gigs_OneArticle?articleId=community-fund&blockHeight=97329080&lastEditor=ndcplug.near",
 "/gig-office-hours" : "",
 "/gig-user-activity" : "",
+"/gig-home-page": "https://near.social/neardigitalcollective.near/widget/Gigs_OneArticle?articleId=ndc-home-page&blockHeight=98060420&lastEditor=ndcplug.near",
 "/gig-contributors" : "",
 "/gig-fast-sbt": "https://near.social/#/neardigitalcollective.near/widget/Gigs_OneArticle?articleId=fast-sbt&blockHeight=96841379&lastEditor=ndcplug.near",
 "/gig-wg-directory" : "https://near.social/#/neardigitalcollective.near/widget/Gigs_OneArticle?articleId=wg-directory&blockHeight=96785133&lastEditor=ndcplug.near",
