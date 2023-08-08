@@ -84,6 +84,7 @@ const RedirectLinks = {
 "/bounty-process": "https://miro.com/app/board/uXjVMMaCkmk=/",
 "/rc-investigation": "https://courageous-camelotia-2ec.notion.site/RC-DAO-Investigation-00ed9f8d80b440bfb6f6fb06af51ca90#16df22ba9d344420867e61337170b948",
 "/whistleblow": "https://medium.com/@neardigitalcollective/introducing-ndc-whistleblower-bounty-program-d4fe1b9fc5a0",
+"/kudos": "https://near.org/kudos.ndctools.near/widget/NDC.Kudos.Main",
   
 };
 
