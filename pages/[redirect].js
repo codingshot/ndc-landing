@@ -89,6 +89,7 @@ const RedirectLinks = {
 "/whistleblow": "https://medium.com/@neardigitalcollective/introducing-ndc-whistleblower-bounty-program-d4fe1b9fc5a0",
 "/kudos": "https://near.org/kudos.ndctools.near/widget/NDC.Kudos.Main",
 "/human-form": "https://forms.gle/1SoT7d9924xXYTvA8",
+"/nearui": "https://near.org/nearui.near/widget/index",
   
 };
 
