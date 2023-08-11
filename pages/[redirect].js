@@ -90,7 +90,8 @@ const RedirectLinks = {
 "/kudos": "https://near.org/kudos.ndctools.near/widget/NDC.Kudos.Main",
 "/human-form": "https://forms.gle/1SoT7d9924xXYTvA8",
 "/nearui": "https://near.org/nearui.near/widget/index",
-"ndc-style": "https://near.org/rubycop.near/widget/NDC.StyledComponents",
+"/ndc-style": "https://near.org/rubycop.near/widget/NDC.StyledComponents",
+"/fund-specs": "https://docs.google.com/document/u/2/d/1c8NsTPe9BCqHwwCDQxthFUXUg5l3ejoVy6i8_3Tj7bA/edit",
   
 };
 
