@@ -90,6 +90,7 @@ const RedirectLinks = {
 "/kudos": "https://near.org/kudos.ndctools.near/widget/NDC.Kudos.Main",
 "/human-form": "https://forms.gle/1SoT7d9924xXYTvA8",
 "/nearui": "https://near.org/nearui.near/widget/index",
+"ndc-style": "https://near.org/rubycop.near/widget/NDC.StyledComponents",
   
 };
 
