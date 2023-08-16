@@ -46,9 +46,9 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            🏠 NDC BOS Homepage<span>-&gt;</span>
+            🏠 NDC BOS Gateway<span>-&gt;</span>
           </h2>
-          <p>NDC BOS homepage with all relevant links and NDC BOS products.</p>
+          <p>NDC Gateway, your portal to NDC BOS products.</p>
         </a>
         <a
           href="https://i-am-human.app"

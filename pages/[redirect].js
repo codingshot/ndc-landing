@@ -7,7 +7,7 @@ const RedirectLinks = {
   "/funding": "https://near.social/#/frichard5.near/widget/NDC-alldaos_overview",
   "/poll": "https://near.org/easypoll-v0.ndc-widgets.near/widget/EasyPoll",
   "/twitter": "https://twitter.com/neardc",
-  "/home": "https://near.social/#/mattb.near/widget/NDC.Views.Home",
+  "/home": "https://app.neardc.org",
   "/devhub": "https://near.social/#/devgovgigs.near/widget/gigs-board.pages.community.activity?handle=ndc",
   "/og-application": "https://docs.google.com/forms/d/e/1FAIpQLSfQ80mza1ssDRuEkjTl61ty0ORxm23whmwBDlaxWHjodTiz-w/viewform",
   "/updates": "https://near.social/#/sayalot.near/widget/SayALot",
