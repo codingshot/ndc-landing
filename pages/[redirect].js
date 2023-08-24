@@ -152,7 +152,7 @@ const RedirectLinks = {
 "/vote-dabbie": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=TransparencyCommission&accountId=dabbie3229.near",
 "/vote-raptor": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=TransparencyCommission&accountId=kriptoraptor.near",
 "/vote-brando": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=CouncilOfAdvisors&accountId=kangaroojack.near",
-
+"/nomination-leaderboard": "https://near.org/vadim.near/widget/nominations",
 
 
 
