@@ -154,6 +154,8 @@ const RedirectLinks = {
 "/vote-brando": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=CouncilOfAdvisors&accountId=kangaroojack.near",
 "/vote-odin": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=HouseOfMerit&accountId=odins_eyehole.near",
 "/vote-ugx": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=HouseOfMerit&accountId=ugxnear.near",
+"/vote-joe":"https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=CouncilOfAdvisors&accountId=joespano.near",
+"/vote-robert": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=CouncilOfAdvisors&accountId=robert.near",
 "/nomination-leaderboard": "https://near.org/vadim.near/widget/nominations",
 
 
