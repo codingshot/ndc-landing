@@ -156,6 +156,7 @@ const RedirectLinks = {
 "/vote-ugx": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=HouseOfMerit&accountId=ugxnear.near",
 "/vote-joe":"https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=CouncilOfAdvisors&accountId=joespano.near",
 "/vote-robert": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=CouncilOfAdvisors&accountId=robert.near",
+"/vote-vlad": "https://near.social/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=HouseOfMerit&accountId=vlad.near",
 "/nomination-leaderboard": "https://near.org/vadim.near/widget/nominations",
 
 
