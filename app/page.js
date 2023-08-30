@@ -141,6 +141,17 @@ export default function Home() {
           </h2>
           <p>Check out the say-a-lot BOS widget to see what key members of the NDC are saying.</p>
         </a>
+        <a
+          href="https://neardc.org/sbt-holderes"
+          className={styles.card}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h2>
+            📛 SBT Holders<span>-&gt;</span>
+          </h2>
+          <p>See the OGs, Human, Regens, Vibees, and everyone that has a community SBT!</p>
+        </a>
       </div>
     </main>
   )
