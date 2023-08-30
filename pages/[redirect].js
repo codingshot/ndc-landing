@@ -88,7 +88,6 @@ const RedirectLinks = {
 "/bounty-process": "https://miro.com/app/board/uXjVMMaCkmk=/",
 "/rc-investigation": "https://courageous-camelotia-2ec.notion.site/RC-DAO-Investigation-00ed9f8d80b440bfb6f6fb06af51ca90#16df22ba9d344420867e61337170b948",
 "/whistleblow": "https://medium.com/@neardigitalcollective/introducing-ndc-whistleblower-bounty-program-d4fe1b9fc5a0",
-"/whistleblower": "https://medium.com/@neardigitalcollective/introducing-ndc-whistleblower-bounty-program-d4fe1b9fc5a0",
 "/kudos": "https://near.org/kudos.ndctools.near/widget/NDC.Kudos.Main",
 "/human-form": "https://forms.gle/1SoT7d9924xXYTvA8",
 "/nearui": "https://near.org/nearui.near/widget/index",
@@ -166,6 +165,9 @@ const RedirectLinks = {
 "/TransparencyComission": "https://near.social/neardigitalcollective.near/widget/NDCDocs_OneArticle?articleId=Transparency_Commission-Overview&blockHeight=99011054&lastEditor=neardigitalcollective.near",
 "/CoA": "https://near.social/neardigitalcollective.near/widget/NDCDocs_OneArticle?articleId=Council_of_Advisors-Overview&blockHeight=99010425&lastEditor=neardigitalcollective.near",
 "/CouncilOfAdvisors": "https://near.social/neardigitalcollective.near/widget/NDCDocs_OneArticle?articleId=Council_of_Advisors-Overview&blockHeight=99010425&lastEditor=neardigitalcollective.near",
+
+
+
 };
 
 const Redirect = () => {
