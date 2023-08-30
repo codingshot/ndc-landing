@@ -158,6 +158,7 @@ const RedirectLinks = {
 "/vote-robert": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=CouncilOfAdvisors&accountId=robert.near",
 "/vote-vlad": "https://near.social/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=HouseOfMerit&accountId=vlad.near",
 "/nomination-leaderboard": "https://near.org/vadim.near/widget/nominations",
+"/vote-vikash": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=TransparencyCommission&accountId=vikash.near",
 
 
 
