@@ -88,6 +88,7 @@ const RedirectLinks = {
 "/bounty-process": "https://miro.com/app/board/uXjVMMaCkmk=/",
 "/rc-investigation": "https://courageous-camelotia-2ec.notion.site/RC-DAO-Investigation-00ed9f8d80b440bfb6f6fb06af51ca90#16df22ba9d344420867e61337170b948",
 "/whistleblow": "https://medium.com/@neardigitalcollective/introducing-ndc-whistleblower-bounty-program-d4fe1b9fc5a0",
+"/whistleblower": "https://medium.com/@neardigitalcollective/introducing-ndc-whistleblower-bounty-program-d4fe1b9fc5a0",
 "/kudos": "https://near.org/kudos.ndctools.near/widget/NDC.Kudos.Main",
 "/human-form": "https://forms.gle/1SoT7d9924xXYTvA8",
 "/nearui": "https://near.org/nearui.near/widget/index",
@@ -159,6 +160,12 @@ const RedirectLinks = {
 "/vote-vlad": "https://near.social/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=HouseOfMerit&accountId=vlad.near",
 "/nomination-leaderboard": "https://near.org/vadim.near/widget/nominations",
 "/vote-vikash": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=TransparencyCommission&accountId=vikash.near",
+"/HoM": "https://near.social/neardigitalcollective.near/widget/NDCDocs_OneArticle?articleId=House_of_Merit-Overview&blockHeight=99009616&lastEditor=neardigitalcollective.near",
+"/HouseOfMerit": "https://near.social/neardigitalcollective.near/widget/NDCDocs_OneArticle?articleId=House_of_Merit-Overview&blockHeight=99009616&lastEditor=neardigitalcollective.near",
+"/TC": "https://near.social/neardigitalcollective.near/widget/NDCDocs_OneArticle?articleId=Transparency_Commission-Overview&blockHeight=99011054&lastEditor=neardigitalcollective.near",
+"/TransparencyComission": "https://near.social/neardigitalcollective.near/widget/NDCDocs_OneArticle?articleId=Transparency_Commission-Overview&blockHeight=99011054&lastEditor=neardigitalcollective.near",
+"/CoA": "https://near.social/neardigitalcollective.near/widget/NDCDocs_OneArticle?articleId=Council_of_Advisors-Overview&blockHeight=99010425&lastEditor=neardigitalcollective.near",
+"/CouncilOfAdvisors": "https://near.social/neardigitalcollective.near/widget/NDCDocs_OneArticle?articleId=Council_of_Advisors-Overview&blockHeight=99010425&lastEditor=neardigitalcollective.near",
 
 
 
