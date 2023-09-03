@@ -166,6 +166,12 @@ const RedirectLinks = {
 "/CoA": "https://near.social/neardigitalcollective.near/widget/NDCDocs_OneArticle?articleId=Council_of_Advisors-Overview&blockHeight=99010425&lastEditor=neardigitalcollective.near",
 "/CouncilOfAdvisors": "https://near.social/neardigitalcollective.near/widget/NDCDocs_OneArticle?articleId=Council_of_Advisors-Overview&blockHeight=99010425&lastEditor=neardigitalcollective.near",
 "/vote-guy": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=TransparencyCommission&accountId=ntare.near",
+"/vote-bowen": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=HouseOfMerit&accountId=woben.near",
+"/vote-alex": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=CouncilOfAdvisors&accountId=keyokey.near",
+"/vote-jane": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=CouncilOfAdvisors&accountId=jlw.near",
+"/vote-riley": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=HouseOfMerit&accountId=rileytran.near",
+"/vote-jeff": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=CouncilOfAdvisors&accountId=jgold.near",
+"/vote-yessin": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=CouncilOfAdvisors&accountId=yesn.near",
 
 
 
