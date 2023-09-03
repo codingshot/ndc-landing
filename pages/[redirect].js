@@ -165,6 +165,7 @@ const RedirectLinks = {
 "/TransparencyComission": "https://near.social/neardigitalcollective.near/widget/NDCDocs_OneArticle?articleId=Transparency_Commission-Overview&blockHeight=99011054&lastEditor=neardigitalcollective.near",
 "/CoA": "https://near.social/neardigitalcollective.near/widget/NDCDocs_OneArticle?articleId=Council_of_Advisors-Overview&blockHeight=99010425&lastEditor=neardigitalcollective.near",
 "/CouncilOfAdvisors": "https://near.social/neardigitalcollective.near/widget/NDCDocs_OneArticle?articleId=Council_of_Advisors-Overview&blockHeight=99010425&lastEditor=neardigitalcollective.near",
+"/vote-guy": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=TransparencyCommission&accountId=ntare.near",
 
 
 
