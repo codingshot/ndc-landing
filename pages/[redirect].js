@@ -198,6 +198,8 @@ const RedirectLinks = {
 "/vote-avb": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=TransparencyCommission&accountId=alejandro.near",
 "/vote-alexander": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=TransparencyCommission&accountId=aurorafinance1.near",
 "/vote-rezha": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=TransparencyCommission&accountId=arezhas.near",
+"/vote-mister": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=HouseOfMerit&accountId=masterofcode.near",
+"/vote-igor": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=HouseOfMerit&accountId=iamgalt.near",
 
 };
 
