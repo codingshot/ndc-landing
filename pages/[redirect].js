@@ -206,6 +206,7 @@ const RedirectLinks = {
 "/who-voted": "https://near.social/vadim.near/widget/elections",
 "/pikespeak": "https://pikespeak.ai/ndc-election",
 "/election-results": "https://near.social/ndcplug.near/widget/NDC.Election.Votes",
+"/election-stats": "https://near.social/marior.near/widget/NDCElections",
 
 };
 
