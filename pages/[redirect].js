@@ -203,6 +203,9 @@ const RedirectLinks = {
 "/vote-frol": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=CouncilOfAdvisors&accountId=frol.near",
 "/vote-dani": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=TransparencyCommission&accountId=waverlymaven.near",
 "/vote-maxwell": "https://near.org/nomination.ndctools.near/widget/NDC.Nomination.Candidate.Page?house=HouseOfMerit&accountId=bearmans.near",
+"/who-voted": "https://near.social/vadim.near/widget/elections",
+"/pikespeak": "https://pikespeak.ai/ndc-election",
+"/election-results": "https://near.org/d379906a6274af7c56616ebc2157cc0d46256f7359f96bb36f482717a8af80f7/widget/NDC.Elections.Main",
 
 };
 
