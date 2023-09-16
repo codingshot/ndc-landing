@@ -211,6 +211,7 @@ const RedirectLinks = {
 "/greylist-appeal": "https://docs.google.com/forms/d/e/1FAIpQLSfa3S6Qz1MdiJEXINMICv9O9oVD7LOdwiPmHI_4_gCLAhN0CA/viewform",
 "/graylist-appeal": "https://docs.google.com/forms/d/e/1FAIpQLSfa3S6Qz1MdiJEXINMICv9O9oVD7LOdwiPmHI_4_gCLAhN0CA/viewform",
 "/voter-graph": "https://near.social/mob.near/widget/VotersGraph",
+"/cap-tracker": "https://near-ndc.notion.site/30f413a8ed9f4a57975570eeb1bc0596?v=8c9c0e2fa0224ae782e23d1ca0774c3b",
 
 
 };
