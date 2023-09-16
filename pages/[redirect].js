@@ -208,6 +208,10 @@ const RedirectLinks = {
 "/pikespeak": "https://pikespeak.ai/ndc-election",
 "/election-results": "https://near.social/ndcplug.near/widget/NDC.Election.Votes",
 "/election-stats": "https://near.social/marior.near/widget/NDCElections",
+"/greylist-appeal": "https://docs.google.com/forms/d/e/1FAIpQLSfa3S6Qz1MdiJEXINMICv9O9oVD7LOdwiPmHI_4_gCLAhN0CA/viewform",
+"/graylist-appeal": "https://docs.google.com/forms/d/e/1FAIpQLSfa3S6Qz1MdiJEXINMICv9O9oVD7LOdwiPmHI_4_gCLAhN0CA/viewform",
+"/voter-graph": "https://near.social/mob.near/widget/VotersGraph",
+
 
 };
 
