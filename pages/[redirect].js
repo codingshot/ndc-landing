@@ -216,6 +216,8 @@ const RedirectLinks = {
 "/voter-graph": "https://near.social/mob.near/widget/VotersGraph",
 "/cap-tracker": "https://near-ndc.notion.site/30f413a8ed9f4a57975570eeb1bc0596?v=8c9c0e2fa0224ae782e23d1ca0774c3b",
 "/dao": "https://near.org/astraplusplus.ndctools.near/widget/home",
+"/legal-framework": "https://near.org/blog/near-digital-collective-legal-framework#",
+"/sputnik": "https://near.org/frichard5.near/widget/SputnikBOS.Home",
 
 
 };
