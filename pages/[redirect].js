@@ -218,6 +218,9 @@ const RedirectLinks = {
 "/dao": "https://near.org/astraplusplus.ndctools.near/widget/home",
 "/legal-framework": "https://near.org/blog/near-digital-collective-legal-framework#",
 "/sputnik": "https://near.org/frichard5.near/widget/SputnikBOS.Home",
+"/disqualified": "https://near-ndc.notion.site/81c56c009b94469b952e5b44a614d46e?v=feaa73d049fe4003a730741362044452",
+"/eic": "https://near-ndc.notion.site/near-ndc/Election-Integrity-Council-Transparency-Report-f5db1dd47908470cab4d50484cce2498",
+
 
 
 };
