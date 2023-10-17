@@ -224,6 +224,7 @@ const RedirectLinks = {
 "/disqualified": "https://near-ndc.notion.site/81c56c009b94469b952e5b44a614d46e?v=feaa73d049fe4003a730741362044452",
 "/eic": "https://near-ndc.notion.site/near-ndc/Election-Integrity-Council-Transparency-Report-f5db1dd47908470cab4d50484cce2498",
 "/budget-draft": "https://docs.google.com/spreadsheets/d/14WQAuxbuxQvmL4q4n38YgyJ-B-7ZUKgXetPjQwAbMe4/edit#gid=882759641",
+"/gateway": "https://github.com/codingshot/neardc-gateway",
 
 
 
