@@ -225,6 +225,8 @@ const RedirectLinks = {
 "/eic": "https://near-ndc.notion.site/near-ndc/Election-Integrity-Council-Transparency-Report-f5db1dd47908470cab4d50484cce2498",
 "/budget-draft": "https://docs.google.com/spreadsheets/d/14WQAuxbuxQvmL4q4n38YgyJ-B-7ZUKgXetPjQwAbMe4/edit#gid=882759641",
 "/gateway": "https://github.com/codingshot/neardc-gateway",
+"/priorities": "https://drive.google.com/file/d/1XBwM76ylQ5duwdxGhBPo249JYXwpGTZO/view?usp=sharing",
+"/hom-kpis": "https://medium.com/@neardigitalcollective/the-road-to-ndcs-v1-governance-update-from-house-of-merit-council-of-advisors-99e9679c3c18",
 
 
 
