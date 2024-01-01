@@ -229,6 +229,8 @@ const RedirectLinks = {
 "/hom-kpis": "https://medium.com/@neardigitalcollective/the-road-to-ndcs-v1-governance-update-from-house-of-merit-council-of-advisors-99e9679c3c18",
 "/proposal-template": "https://docs.google.com/document/d/1Qj60-sEEFbYoR0Bjl3bELDe1Ih1em68aC8PHfzEn1Rw/edit?usp=sharing",
 "/tc-general-complaints":"https://tcgeneralcomplaint.fillout.com/tc-general-complaints",
+"/apply": "https://gov.near.org/c/ndc/105",
+"/gov": "https://gov.near.org/c/ndc/105",
 
 
 

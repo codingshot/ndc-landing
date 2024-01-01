@@ -51,6 +51,17 @@ export default function Home() {
           <p>NDC Gateway, your portal to NDC BOS products.</p>
         </a>
         <a
+          href="https://neardc.org/apply"
+          className={styles.card}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h2>
+            💸 NDC Funding Requests<span>-&gt;</span>
+          </h2>
+          <p>Request funding as a project or grassroots DAO on the forum.</p>
+        </a>
+        <a
           href="https://i-am-human.app"
           className={styles.card}
           target="_blank"
@@ -72,8 +83,7 @@ export default function Home() {
           </h2>
           <p>Join a vertical in the NDC and build community today!</p>
         </a>
-
-        <a
+{false &&         <a
           href="https://neardc.org/nominate"
           className={styles.card}
           target="_blank"
@@ -83,7 +93,8 @@ export default function Home() {
           🗳️ NDC Nominations<span>-&gt;</span>
           </h2>
           <p>If you are an OG run for office in NDC Congress, if you are a human, comment on candidates' platforms.</p>
-        </a>
+        </a>}
+
 
         <a
           href="https://neardc.org/docs"
