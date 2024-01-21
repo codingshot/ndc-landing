@@ -231,6 +231,7 @@ const RedirectLinks = {
 "/tc-general-complaints":"https://tcgeneralcomplaint.fillout.com/tc-general-complaints",
 "/apply": "https://gov.near.org/c/ndc/105",
 "/gov": "https://gov.near.org/c/ndc/105",
+"/astra-backlog": "https://github.com/orgs/near-ndc/projects/3",
 
 
 
