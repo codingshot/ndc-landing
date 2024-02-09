@@ -232,7 +232,7 @@ const RedirectLinks = {
 "/apply": "https://gov.near.org/c/ndc/105",
 "/gov": "https://gov.near.org/c/ndc/105",
 "/astra-backlog": "https://github.com/orgs/near-ndc/projects/3",
-
+"/voice": "https://near.org/astraplusplus.ndctools.near/widget/home?page=communityVoice",
 
 
 };
